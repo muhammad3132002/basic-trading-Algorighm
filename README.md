@@ -1,0 +1,1 @@
+# basic-trading-Algorighm
